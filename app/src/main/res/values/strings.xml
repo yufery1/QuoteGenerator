@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuoteGenerator</string>
+    <string name="quote_string">"Жизнь — это то, что с тобой происходит, пока ты строишь планы."
+   <b>
+       — Джон Леннон
+   </b> </string>
+    <string name="quote_string2">"Самое важное — это решение действовать, ключ к успеху — начать."
+    <b>
+        — Амелия Эрхарт
+    </b>
+    </string>
+    <string name="quote_string3">"Сложности — это только мнимые преграды на пути к успеху."  <b>
+         — Джулия Грегсон
+    </b> </string>
+    <string name="quote_string4">"Будьте сами собой, все остальные роли уже заняты."  <b>
+         — Оскар Уайльд
+    </b> </string>
+
+</resources>
